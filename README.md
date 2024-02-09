@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @H-ELQADIRI
-- 👀 I’m interested in data and make a webs site with html css js php laravel
+- 👀 I’m interested in data analytics and make a web site with html css js php laravel
 - 🌱 I’m currently learning Data analytics domain
 - 💞️ I’m looking to collaborate on data analytics domain
 
